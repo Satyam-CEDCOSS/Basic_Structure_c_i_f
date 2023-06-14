@@ -1,0 +1,7 @@
+14-06-23 04:40:52: cli ended ["\/app\/home\/app\/cli","cache","flush","install"]
+14-06-23 04:40:53: cli ended ["\/app\/home\/app\/cli","setup","upgrade","install"]
+14-06-23 04:43:21: cli ended ["app\/cli","user","getToken","-u","admin"]
+14-06-23 04:52:07: cli ended ["\/app\/home\/app\/cli","cache","flush","install"]
+14-06-23 04:52:07: cli ended ["\/app\/home\/app\/cli","setup","upgrade","install"]
+14-06-23 05:18:11: cli ended ["\/app\/home\/app\/cli","cache","flush","install"]
+14-06-23 05:18:12: cli ended ["\/app\/home\/app\/cli","setup","upgrade","install"]
